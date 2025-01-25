@@ -3,7 +3,6 @@
 
 
 
-## **📌 Overview**
 This repository implements a **Handwritten Text Recognition (HTR) model** using deep learning techniques. The goal is to convert handwritten text images into machine-readable text using a **Convolutional Recurrent Neural Network (CRNN)** with **CTC loss**.
 
 🔹 **Key Features**  
