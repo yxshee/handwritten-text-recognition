@@ -1,5 +1,5 @@
 
-# **📜 Handwritten Text Recognition (HTR)**
+# **📜 Handwritten Text Recognition **
 
 
 
