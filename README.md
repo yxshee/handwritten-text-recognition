@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## **📂 Dataset Setup**
 By default, the model is trained on the **IAM Handwriting Database**.  
-### **1️⃣ Download IAM Dataset**
+### **1️⃣ Download Kaggle Dataset**
 - Register at [Kaggle Dataset](https://www.kaggle.com/datasets/yashdogra/handwrittentext)
 - Download and extract the dataset into the `data` folder
 
