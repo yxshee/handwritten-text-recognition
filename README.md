@@ -125,7 +125,7 @@ We welcome contributions!
 ---
 
 ## **📜 License**
-This project is **MIT licensed**. See the [LICENSE](LICENSE) file for details.
+This project is **Apache licensed**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
